@@ -1,2 +1,2 @@
-# ELE050-B
-Repositorio del curso Aprendizaje de Máquina
+# ELE050-B Aprendizaje de Máquina
+Repositorio del curso 🤖
